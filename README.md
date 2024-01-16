@@ -434,7 +434,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Om](https://omchaudhari1107.github.io/) 
-- [Om](https://omdev.up.railway.app/)
+- [Om](https://omdev.up.railway.app/) 
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Omargpax](https://omargpax.pages.dev)
